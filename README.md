@@ -2,4 +2,4 @@
   
 a peaceful meditation and journaling experience.
 
-![zenn](https://github.com/user-attachments/assets/4a63330e-195b-4faf-853b-c4dc40ad8161)
+![file](https://github.com/user-attachments/assets/abd3f0b3-54d9-4cdd-87cb-f0f00b9df928)
