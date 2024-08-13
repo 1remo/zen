@@ -111,5 +111,3 @@ struct MeditationDetailView: View {
                                                 background: .blueMain,
                                                 time: 6, index: 1))
 }
-
-//https://www.hionline.eu/streaming-url/
